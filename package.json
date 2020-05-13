@@ -1,0 +1,19 @@
+{
+  "name": "xmlhttprequest",
+  "version": "1.0.0",
+  "description": "XMLHttpRequest",
+  "main": "xhr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-endLiu/XMLHttpRequest.git"
+  },
+  "author": "liubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/front-endLiu/XMLHttpRequest/issues"
+  },
+  "homepage": "https://github.com/front-endLiu/XMLHttpRequest#readme"
+}
